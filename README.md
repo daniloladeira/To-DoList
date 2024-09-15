@@ -1,2 +1,2 @@
 # To-DoList
-Aplicação To-DoList Simples
+Aplicação To-DoList Simples utilizando o framework React.JS
